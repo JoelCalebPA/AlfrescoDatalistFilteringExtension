@@ -45,7 +45,6 @@ import com.openkm.module.db.stuff.DbSessionManager;
 public class MetadataCatalog implements Action {
 	private static Logger log = LoggerFactory.getLogger(MetadataCatalog.class);
 	private static String TEST_PROPERTY_GROUP_NAME = "okg:test";
-	
 	private static String TEST_PROPERTY_PARENT_NAME = "okp:test.parent";
 	private static String TEST_PROPERTY_CHILDREN_NAME = "okp:test.children";
 
